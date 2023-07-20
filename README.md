@@ -73,7 +73,21 @@ Access the admin dashboard to review loan applications.
 Make decisions on loan approvals and denials.
 Manage user accounts and loan-related data.
 ### Screenshots
-
+![Screenshot_1](https://github.com/ChediLahmer/bank-loan/assets/131680831/190753d2-b46f-45c4-9d3e-9e8ad2c51c70)
+![Screenshot_2](https://github.com/ChediLahmer/bank-loan/assets/131680831/75963d77-b76d-42b6-8f6a-d98e43f99200)
+![Screenshot_3](https://github.com/ChediLahmer/bank-loan/assets/131680831/ead58001-8960-4350-86e9-be0dc8415e93)
+![Screenshot_4](https://github.com/ChediLahmer/bank-loan/assets/131680831/9bc5b4e7-93dc-4387-8e16-e8e20a50c8a5)
+![Screenshot_5](https://github.com/ChediLahmer/bank-loan/assets/131680831/d057bf9c-d0ea-4d44-be40-a72bb8a2d6e8)
+![Screenshot_6](https://github.com/ChediLahmer/bank-loan/assets/131680831/dee2c7aa-0f21-4a0b-98f8-6ad39c472e81)
+![Screenshot_7](https://github.com/ChediLahmer/bank-loan/assets/131680831/6f8e2e0f-d980-4dbe-a626-8731b721f12c)
+![Screenshot_8](https://github.com/ChediLahmer/bank-loan/assets/131680831/eece2a9b-edd0-4fdd-9b9c-50c5d30b6c6a)
+![Screenshot_9](https://github.com/ChediLahmer/bank-loan/assets/131680831/1aefac1e-4fed-4a14-a3a9-43300e3ee544)
+![Screenshot_10](https://github.com/ChediLahmer/bank-loan/assets/131680831/045345e8-c22a-40af-9368-6ea6da6f051c)
+![Screenshot_11](https://github.com/ChediLahmer/bank-loan/assets/131680831/4a3f9971-dfb6-4987-b52b-b4fe5ade6f37)
+![Screenshot_12](https://github.com/ChediLahmer/bank-loan/assets/131680831/208f0f41-34d7-4ea7-9c6b-5d05bbaad52e)
+![Screenshot_13](https://github.com/ChediLahmer/bank-loan/assets/131680831/cd985abd-4cd1-491d-8e33-5c4a6faa17c0)
+![Screenshot_14](https://github.com/ChediLahmer/bank-loan/assets/131680831/dbfed7c3-9fc6-4062-a429-ff540748c9b4)
+![Screenshot_15](https://github.com/ChediLahmer/bank-loan/assets/131680831/b591d67c-489e-4430-a2f5-6138cea2de45)
 Homepage
 
 The homepage presents an overview of the loan management system.
