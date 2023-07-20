@@ -38,7 +38,7 @@ The web application is developed using the following technologies:
 
 HTML5
 CSS3
-JavaScript (Vanilla JS and possibly frameworks like jQuery)
+JavaScript 
 PHP for server-side processing and database interactions
 MySQL for data storage
 Figma for design and prototyping
